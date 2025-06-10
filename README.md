@@ -1,4 +1,4 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://imgur.com/ZzpO82l)
 
 
 <p align="center">
@@ -7,61 +7,62 @@
       alt="License: MIT" />
   </a>
 
-  <a href="https://www.paypal.me/@GlaceYT">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
-      alt="Donate" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
-      alt="YouTube" />
-  </a>
 
-  <a href="https://discord.gg/xQF9f9yUEM">
+  <a href="https://discord.gg/npHUfU9VaJ">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
       alt="Join Discord" />
   </a>
 
-  <a href="https://www.instagram.com/glaceytt">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"
-      alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/youulewd/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook"
-      alt="Facebook" />
-  </a>
-</p>
 
 
-## Guide
 
-###  Set Up Hosting Service
+Claro! Aqui está a tradução:
 
-1. Go to your preferred hosting service. For this guide, we use [Render](https://render.com/).
-2. In the Build & Deploy section, paste your repository URL.
+---
 
+## Guia
 
-###  Add Build and Start Commands
- Run the following commands to install dependencies and start your bot:
+### Configurar o Serviço de Hospedagem
 
-   npm install
-   node index.js
+1. Vá até seu serviço de hospedagem preferido. Neste guia, usamos o [Render](https://render.com/).
+2. Na seção **Build & Deploy**, cole a URL do seu repositório.
 
-###  Get Your Bot Token
-Navigate to the Discord Developer Portal.
-Find your application, and retrieve the bot token from the "Bot" section.
+---
 
-### Set Environment Variable
-Create an environment variable with the following details:
-Key: TOKEN
-Value: [your bot token]
-Deploy your application using your hosting service’s deployment process.
+### Adicionar Comandos de Build e Inicialização
 
-### Wait and Test
-Wait approximately five minutes for your bot to deploy and start up.
+Rode os seguintes comandos para instalar as dependências e iniciar seu bot:
 
-🎉 Congratulations! Your bot is now up and running. 🥳
+```
+npm install  
+node index.js
+```
+
+---
+
+### Obter o Token do Bot
+
+Acesse o [Portal de Desenvolvedores do Discord](https://discord.com/developers).
+Encontre sua aplicação e copie o token da seção **"Bot"**.
+
+---
+
+### Definir Variável de Ambiente
+
+Crie uma variável de ambiente com os seguintes dados:
+**Key:** `TOKEN`
+**Value:** `[seu token do bot]`
+
+Depois, faça o deploy da sua aplicação seguindo o processo da sua hospedagem.
+
+---
+
+### Esperar e Testar
+
+Espere cerca de cinco minutos para que o bot seja iniciado.
+
+---
+
+🎉 Parabéns! Seu bot está online e funcionando. 🥳
 
