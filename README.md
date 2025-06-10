@@ -50,5 +50,5 @@ Espere cerca de cinco minutos para que o bot seja iniciado.
 
 ```
 
-> 📝 Dica: o link da imagem no começo tava quebrado porque era só a página do Imgur. Coloquei `.gif` direto do host (`https://i.imgur.com/ui5V8WW.gif`) pra funcionar certinho.
+> -soliere.
 ```
