@@ -1,4 +1,4 @@
-![Animated Background]([https://imgur.com/ZzpO82l.gif)
+![Animated Background]([https://imgur.com/ui5V8WW.gif)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
