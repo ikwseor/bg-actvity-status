@@ -1,4 +1,4 @@
-![Animated Background](https://imgur.com/ZzpO82l)
+![Animated Background](https://imgur.com/ui5V8WW)
 
 
 <p align="center">
