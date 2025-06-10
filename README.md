@@ -1,5 +1,4 @@
-![Animated Background]([https://imgur.com/ui5V8WW.gif)
-
+![Animated Background](https://i.imgur.com/ui5V8WW.gif)
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensource" alt="License: MIT" />
